@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Unnamed House #1" houseid="1" entryx="5037" entryy="5041" entryz="7" rent="0" townid="1" size="73" />
+	<house name="Unnamed House #2" houseid="2" entryx="5024" entryy="5035" entryz="7" rent="0" townid="1" size="79" />
+	<house name="Unnamed House #3" houseid="3" entryx="5016" entryy="5035" entryz="7" rent="0" townid="1" size="67" />
+	<house name="Unnamed House #4" houseid="4" entryx="5007" entryy="5037" entryz="7" rent="0" townid="1" size="62" />
+	<house name="Unnamed House #5" houseid="5" entryx="5007" entryy="5043" entryz="7" rent="0" townid="1" size="63" />
+	<house name="Unnamed House #6" houseid="6" entryx="5007" entryy="5049" entryz="7" rent="0" townid="1" size="61" />
+	<house name="Unnamed House #7" houseid="7" entryx="4990" entryy="5048" entryz="7" rent="0" townid="1" size="27" />
+	<house name="Unnamed House #8" houseid="8" entryx="4990" entryy="5043" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Unnamed House #9" houseid="9" entryx="4990" entryy="5038" entryz="7" rent="0" townid="1" size="25" />
+	<house name="Unnamed House #10" houseid="10" entryx="4990" entryy="5033" entryz="7" rent="0" townid="1" size="27" />
+	<house name="Unnamed House #11" houseid="11" entryx="4972" entryy="5038" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Unnamed House #12" houseid="12" entryx="4969" entryy="5041" entryz="7" rent="0" townid="1" size="54" />
+	<house name="Unnamed House #13" houseid="13" entryx="4971" entryy="5029" entryz="7" rent="0" townid="1" size="33" />
+	<house name="Unnamed House #14" houseid="14" entryx="4983" entryy="5054" entryz="7" rent="0" townid="1" size="79" />
+	<house name="Unnamed House #15" houseid="15" entryx="4990" entryy="5054" entryz="7" rent="0" townid="1" size="88" />
+	<house name="Unnamed House #16" houseid="16" entryx="5003" entryy="5063" entryz="7" rent="0" townid="1" size="17" />
+	<house name="Unnamed House #17" houseid="17" entryx="4963" entryy="5075" entryz="6" rent="0" townid="1" size="58" />
+	<house name="Unnamed House #18" houseid="18" entryx="5065" entryy="5024" entryz="7" rent="0" townid="1" size="102" />
+	<house name="Unnamed House #19" houseid="19" entryx="5026" entryy="5025" entryz="7" rent="0" townid="1" size="59" />
+	<house name="Unnamed House #20" houseid="20" entryx="5037" entryy="5013" entryz="7" rent="0" townid="1" size="57" />
+	<house name="Unnamed House #21" houseid="21" entryx="4987" entryy="5036" entryz="6" rent="0" townid="1" size="29" />
+	<house name="Unnamed House #22" houseid="22" entryx="4983" entryy="5037" entryz="6" rent="0" townid="1" size="30" />
+	<house name="Unnamed House #23" houseid="23" entryx="4987" entryy="5048" entryz="6" rent="0" townid="1" size="31" />
+	<house name="Unnamed House #24" houseid="24" entryx="4984" entryy="5035" entryz="5" rent="0" townid="1" size="17" />
+	<house name="Unnamed House #25" houseid="25" entryx="4984" entryy="5039" entryz="5" rent="0" townid="1" size="16" />
+	<house name="Fuon Castle" houseid="26" entryx="5046" entryy="4905" entryz="7" rent="0" townid="1" size="297" />
+	<house name="Unnamed House #27" houseid="27" entryx="5037" entryy="5006" entryz="7" rent="0" townid="1" size="85" />
+</houses>
